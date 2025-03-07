@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋,
+welcome to my profile!
 
 <!--
 **mibau87/mibau87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
